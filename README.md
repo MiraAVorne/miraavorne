@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a lecturer at LAB University of Applied Sciences. I teach programming at the technology department and I use this GitHub profile to save all my teaching material.  
+
 <!--
 **MiraAVorne/miraavorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
